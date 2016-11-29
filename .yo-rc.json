@@ -1,0 +1,18 @@
+{
+  "generator-cds-talk": {
+    "presentationTitle": "Starter for Graph",
+    "presentationSubTitle": "IBM Graph",
+    "packageVersion": "0.0.1",
+    "revealLayout": "cloudant",
+    "revealTheme": "ibm-cds",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ukmadlz",
+    "githubRepository": "starter-for-graph",
+    "authorName": "Mike Elsmore",
+    "authorJobTitle": "Developer Advocate",
+    "authorEmail": "mike.elsmore@uk.ibm.com",
+    "authorTwitter": "ukmadlz",
+    "authorGithub": "ukmadlz"
+  }
+}
